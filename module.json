@@ -38,12 +38,13 @@
   ],
   "packs": [
       {
-        "name": "achievements",
-        "label": "Achievements",
-        "path": "packs/achievements.db",
-        "entity": "Item",
-        "module": "New Module"
-    }
+          "name": "achievements",
+          "label": "Achievements",
+          "system": "dnd5e",
+          "module": "module",
+          "path": "./packs/achievements.db",
+          "entity": "Item"
+      }
   ],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
