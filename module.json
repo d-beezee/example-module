@@ -1,6 +1,6 @@
 {
-  "name": "module",
-  "title": "New Module",
+  "name": "mcss-achievements",
+  "title": "Achievements for D&D",
   "description": "",
   "version": "This is auto replaced",
   "library": "false",
@@ -8,11 +8,6 @@
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "authors": [
-    {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
-    }
   ],
   "dependencies": [
 
