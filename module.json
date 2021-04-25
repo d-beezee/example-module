@@ -18,7 +18,7 @@
 
   ],
   "conflicts": [
-    
+
   ],
   "esmodules": [
     "/scripts/module.js"
@@ -34,6 +34,15 @@
       "lang": "en",
       "name": "English",
       "path": "languages/en.json"
+    }
+  ],
+  "packs": [
+      {
+        "name": "achievements",
+        "label": "Achievements",
+        "path": "packs/achievements.db",
+        "entity": "Item",
+        "module": "New Module"
     }
   ],
   "url": "This is auto replaced",
